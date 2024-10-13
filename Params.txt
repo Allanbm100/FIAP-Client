@@ -1,0 +1,5 @@
+Query Params:
+https://meudominio.com/busca?nome=Joao&sobrenome=Maria
+
+Path Params:
+https://meudominio.com/busca/Joao/Maria
